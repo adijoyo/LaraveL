@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @section('container')
-        <h1>About Wayne Enterprise</h1>
+        <h1 style="text-align: center">About Wayne Enterprise</h1>
     <br>
     <h4>{{ $nama }}</h4>
     <p>{{ $email }}</p>
